@@ -7,6 +7,9 @@ import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.widget.TextView;
 
+/**
+ * Created by Administrator on 02/05/2017.
+ */
 
 public class OVuong extends TextView {
     public OVuong(Context context) {

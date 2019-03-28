@@ -393,6 +393,7 @@ for(int i=0;i<4;i++){
         content();
     }
     public ArrayList<Integer> getArr() {
+
         return arr;
     }
 
